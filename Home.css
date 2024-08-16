@@ -1,0 +1,689 @@
+nav {
+    background-color:gray;
+    color: white;
+    text-align: right;
+    padding: 20px;
+    
+}
+
+a{
+    justify-content: space-between;
+    padding: 30px;
+    text-decoration: none;
+    font-size: 25px;
+    color: rgb(248, 244, 244);
+
+}
+
+.div{
+    justify-content: space-between;
+    padding-left: 20px;
+    display:flex;
+    position:-webkit-sticky;
+    position: sticky;
+    top: 0%;
+    
+}
+.Pic {
+   
+    padding-top: 80px;
+    padding-left: 0%;
+    margin-left: 0%;
+}
+.moe {
+    justify-content: space-between;
+    display: flex;
+    
+    margin-left: 0%;
+    padding-left: 0%;
+
+}
+
+.Pic{
+    padding-right: 200px;
+}
+
+.Blur{
+    justify-content: right;
+    padding-left: 180px;
+    
+    padding-top: 60px;
+    color: gray;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif  xx;
+    font-style: initial;
+
+    
+}
+
+
+
+
+.Happy{
+    text-align: center;
+    font-size: 50px;
+    padding-right: 80px;
+}
+
+.Img{
+    padding-right: 70px;
+    padding-left: 50px;
+}
+
+.Travel {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: -10px;
+    padding-left: 180px;
+    padding-right: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif  xx;
+    font-style: initial;
+    font-size: 38px;
+    background-color: white;
+    opacity:0.7
+}
+
+.Post:link {
+    padding: 10px 60px 10px ;
+    border-radius: 5px;
+    font-size: 19px;
+    color: black;
+    border: 1px solid black;
+    border-radius: 0px;
+    font-family:Arial, Helvetica, sans-serif;
+    align-items:center;
+}
+
+.Post:hover {
+    background-color:white;
+    color: orangered;
+}
+
+.POST {
+    text-align:center;
+}
+
+
+
+.L {
+    font-size: 25px;
+    color: gray;
+    padding-left: 90px;
+    
+}
+.Dolor{
+    padding-left: 50px;
+    font-size: 22px;
+}
+.L:hover {
+    background-color: white;
+    color: orangered;
+}
+
+.Recent {
+    color: gray;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif  xx;
+    font-style: initial;
+    padding-left: 170px;
+    font-size: 30px;
+}
+
+.Second {
+    padding-left: 70px;
+    padding-bottom: 0px ;
+    padding-top: 0%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: justify;
+    
+}
+
+
+
+.Discovery {
+    padding-right: 330px;
+
+    color: gray;
+    padding-top: 0%;
+    margin-top: 0px;
+    padding-bottom: 200px;
+}
+
+.Thin {
+    
+    font-size: 30px;
+    color: gray;
+    padding-left: px;
+    padding-top: 80px;
+    padding-right: px;
+}
+.Girl{
+   padding-left: 180px;
+   padding-bottom: 120px; 
+}
+
+.World {
+    padding-left: 180px;
+    padding-bottom: 120px;
+    margin-top: -250px;
+
+    padding-right: 20px;
+}
+
+.paragraph{
+    font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-bottom: px;
+    padding-top: 0px;   
+    margin-bottom: px  ;
+    padding-left: px;
+    padding-right: 120px;
+}
+ .line{
+    padding-top: 70px;
+    padding-left: px;
+    padding-right: 125px;
+ }
+
+ .Third {
+    padding-left: 70px;
+    margin-top: -20;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: justify;
+ }
+ 
+
+ .Exploring {
+    padding-right: 330px; 
+    color: gray;
+    padding-bottom: 200px;
+    margin-top: -230px;
+ }
+
+ .Explore {
+    padding-top: 150px;
+    padding-left: px;
+    
+    color: gray;
+    
+    font-size: 30px;
+ }
+
+ .P{
+    font-size: 15px;
+    padding-left: 25px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+ }
+
+ .Line {
+    padding-top: px;
+    padding-bottom: 150px;
+    padding-left: 30px;
+ }
+
+
+ .Backup {
+    color: gray;
+    display: flex;
+    padding-top: 100px;
+ }
+
+
+ .Dena {
+    padding-left: px;
+    display: flex;
+}
+
+.Snap {
+    background-color: gray;
+    padding: 50px;
+    padding-left: 140px;
+    padding-right: 150px;
+
+}
+
+.Final{
+    padding-left: 150px;
+    font-size:50px;
+    padding-bottom: 20px;
+}
+
+.Finalizing{
+    padding-top: 100px;
+}
+
+.P{
+    padding-left: 150px;
+    font-size: 15px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+    
+
+    .Read:link {
+        padding: 10px 60px 10px ;
+        border-radius: 5px;
+        font-size: 19px;
+        color: black;
+        border: 1px solid black;
+        border-radius: 0px;
+        font-family:Arial, Helvetica, sans-serif;
+        }
+
+
+        .Read:hover {
+            background-color:white;
+            color: orangered;
+        }
+    
+        .Read {
+            text-align:center;
+        }
+
+
+        .Convo {
+            text-align: center;
+        }
+
+        .Join {
+            font-size: 50px;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            padding-top: px ;
+        }
+
+        .Below{
+            font-size: 25px;
+            padding-bottom: 70px;
+        }
+
+        
+
+        .Align{
+                    text-align: center;
+                }
+
+       
+
+        input[type="text"] {
+            border: none;
+            display: inline-block;
+            align-items: center;
+            border-bottom: 2px solid rgb(2, 2, 2);
+            background: none;
+            width: 30%;
+            
+        }
+
+
+        input[type="email"] {
+            border: none;
+            display: inline-block;
+            border-bottom: 1px solid rgb(0, 0, 0);
+            background: none;
+            width: 28%;
+        }
+
+
+
+.Lg {
+    text-align: center;
+}
+.Sub:link{
+    color: rgb(12, 11, 11);
+    padding: 10px 60px 10px;
+    border: 1px solid black;
+    border-radius: px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+
+.Sub:hover {
+    
+    color: orangered;
+    
+}
+
+.Subscribe{
+    text-align: center;
+}
+       
+.Fifth {
+    font-size: 25px;
+}
+
+.whole{
+    background-color: gray;
+    color: white;
+    padding-right:50px
+}
+
+
+.footer{
+    background-color: gray;
+    color: white;
+    padding: px;
+    padding-left: 100px;
+    border-top: 5px solid gray
+}
+
+.inner{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-right: 20px;
+}
+
+.Down{
+    font-size: 20px;
+}
+   
+.Last{
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Bottom {
+    
+    display: flex;
+   width:200px;
+   margin-bottom:  50pxpx;
+    padding-left: 700px;
+}
+
+.Message {
+    display: flex;
+    width: 1850px;
+    padding-left: 700px;
+}
+
+
+
+
+.Button{
+    font-size: 25px;
+    border: none;
+    border: 1px solid black;  
+    padding: 10px 30px 10px;
+    
+}
+
+
+.First{
+
+    width: 65em;
+    padding-left: 20em;
+    padding-top: 40px;
+   
+}
+
+.Con{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+  
+}
+
+.Ask{
+   font-family: 'Times New Roman', Times, serif;
+}
+
+
+.Guy{
+    padding-right: 100px;
+    
+}
+
+
+    
+.E {
+   
+    padding-bottom: 50px;
+    width: 3090px;
+    
+
+}
+
+.footer{
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.S{
+    padding-left: 910px;
+    
+}
+
+.Submit:link{
+  border: 1px solid rgb(8, 6, 7); 
+  padding: 10px 60px 10px;
+  font-size: 25px;
+  text-align: right;
+}
+
+.Submit:hover{
+    color: rgb(10, 9, 9);
+}
+
+
+
+
+
+
+
+
+
+
+.SecondDena{
+    display: flex;
+}
+
+.ASnap {
+    background-color: rgb(209, 144, 144);
+    padding-bottom: 200px;
+    padding-top: 100px;
+    padding-left: 130px;
+    padding-right: 170px;
+
+}
+
+.About Head{
+    padding-top: 100px;
+ 
+}
+
+
+.Subhead  {
+    padding-left: 150px;
+    
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+
+ .Writting{
+    padding-left: 150px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+ }
+
+ .Write{
+    padding-left: 150px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+ }
+
+
+
+ .A Footer{
+    background-color: gray;
+    color: white;
+    padding-right:50px
+}
+
+
+.Footer{
+
+    display: flex;
+    padding-left: px;
+    width: 2000px;
+}
+
+
+.A .Inner{
+    font-size: 40px;
+    padding-left: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-right: 20px;}
+    
+.ADown{
+    font-size: 20px;
+    padding-left: 20px;
+}
+
+.ALast{
+    font-size: 20px;
+    padding-left: 20px;
+}
+
+
+.AFirst{
+
+    width: 100em;
+    padding-left: 600px;
+    padding-top: 40px;
+   
+}
+
+.ACon{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: px;
+}
+
+.AAsk{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+ }
+
+
+
+
+
+
+.blog{
+    
+
+    justify-content: space-between;
+}
+
+ .B{
+    color:gray;
+    padding-left: 70px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+ }
+ 
+ .A{
+    color: gray;
+    padding-left: 70px;
+    font-size: 25px;
+}
+
+
+
+ .LoginLogout:link{
+   
+    color:orangered;
+  
+    border: 1px solid orangered; 
+    padding : 5px;
+    padding-right: 30px;
+    
+  }
+
+  .LoginLogout:hover {
+    color: black;
+  }
+  
+  .LoginLogout{
+    text-align: right;
+  }
+
+  .Visa{
+    padding-left: 250px;
+  }
+
+.admin{
+color: gray;
+font-size: 15px;
+padding-left: 250px;
+}
+
+  .Page:link{
+    color: gray;
+    font-size: 25px;
+    padding-left: 250px;
+  }
+
+
+.Page:hover{
+    color: orangered;
+}
+
+  .subtitle{
+    padding-left: 250px;
+    color: gray;
+  }
+
+
+
+
+
+  #circle{
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    background-color: rgb(87, 82, 82);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+}
+#circlee{
+    width: 50px;
+    height: 50px;
+    border: 5px solid white;
+    border-top-color: blueviolet;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+}                                                                                                                                                           
+@keyframes spin{
+    0%{transform: rotate(0deg);}    
+    100%{transform: rotate(360deg);}
+}
+ 
+
+body.loaded #circle{
+    opacity: 0;
+    visibility: hidden ;
+
+}
+
+body.loading #circle{
+    animation: fadeout 5s forwards;
+    
+}
+
+body.loaded #circlee{
+    display: none;
+    
+}
+
+body.loading #circlee{
+    display: block;
+}
